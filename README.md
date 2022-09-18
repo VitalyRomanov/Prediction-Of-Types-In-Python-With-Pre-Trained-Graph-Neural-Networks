@@ -1,4 +1,4 @@
-# PredictionOfTypesInPythonWithPreTrainedGraphNeuralNetworks
+# Prediction Of Types In Python With Pre-Trained Graph Neural Networks
 
 Auxiliary data for the paper Prediction Of Types In Python With Pre Trained Graph Neural Networks.
 
