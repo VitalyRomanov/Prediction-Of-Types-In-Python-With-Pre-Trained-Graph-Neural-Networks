@@ -1,0 +1,127 @@
+Removed Global Edges,Used Edge Types,Removed Subwords,Pretraining Objective,N Layers,Final Accuracy
+True,False,True,,1,0.7044
+True,False,True,,2,0.6032
+True,False,True,,3,0.7948
+True,False,True,,4,0.6768
+True,False,True,,5,0.6421
+True,True,False,,1,0.5434
+True,True,False,,2,0.8004
+True,True,False,,3,0.6673
+True,True,False,,4,0.5158
+True,True,False,,6,0.6455
+True,True,True,,1,0.7179
+True,True,True,,2,0.6235
+True,True,True,,3,0.704
+True,True,True,,4,0.6486
+True,True,True,,5,0.5774
+True,False,False,,1,0.656
+True,False,False,,2,0.6508
+True,False,False,,3,0.6032
+True,False,False,,4,0.7597
+True,False,False,,5,0.6828
+True,False,False,,6,0.6335
+True,False,False,,7,0.6797
+False,False,False,,1,0.7381
+False,False,False,,2,0.7482
+False,False,False,,3,0.6633
+False,False,False,,4,0.624
+False,False,False,,5,0.5967
+False,False,False,,6,0.631
+False,False,False,,7,0.6805
+False,False,True,,1,0.6885
+False,False,True,,2,0.6614
+False,False,True,,3,0.6599
+False,False,True,,4,0.7269
+False,False,True,,5,0.623
+False,True,False,,1,0.6494
+False,True,False,,2,0.5446
+False,True,False,,3,0.7088
+False,True,False,,4,0.4054
+False,True,False,,5,0.6276
+False,True,False,,6,0.684
+False,True,False,,7,0.1705
+False,True,True,,1,0.5957
+False,True,True,,2,0.5311
+False,True,True,,3,0.6266
+False,True,True,,4,0.7258
+False,True,True,,5,0.5678
+False,True,True,Edge Prediction,1,0.6392
+False,True,True,Edge Prediction,2,0.5943
+False,True,True,Edge Prediction,3,0.5993
+False,True,True,Edge Prediction,4,0.6103
+False,True,True,Edge Prediction,5,0.5312
+False,False,True,Edge Prediction,1,0.5714
+False,False,True,Edge Prediction,2,0.6567
+False,False,True,Edge Prediction,3,0.655
+False,False,True,Edge Prediction,4,0.6533
+False,False,True,Edge Prediction,5,0.6321
+False,True,False,Edge Prediction,1,0.5783
+False,True,False,Edge Prediction,2,0.5479
+False,True,False,Edge Prediction,3,0.5888
+False,True,False,Edge Prediction,4,0.6589
+False,True,False,Edge Prediction,5,0.6077
+False,False,False,Edge Prediction,1,0.5835
+False,False,False,Edge Prediction,2,0.5948
+False,False,False,Edge Prediction,3,0.6434
+False,False,False,Edge Prediction,4,0.5892
+False,False,False,Edge Prediction,5,0.5673
+True,False,False,Edge Prediction,1,0.5878
+True,False,False,Edge Prediction,2,0.6681
+True,False,False,Edge Prediction,3,0.6095
+True,False,False,Edge Prediction,4,0.6666
+True,False,False,Edge Prediction,5,0.6618
+True,True,False,Edge Prediction,1,0.6092
+True,True,False,Edge Prediction,2,0.5549
+True,True,False,Edge Prediction,3,0.6326
+True,True,False,Edge Prediction,4,0.5895
+True,True,False,Edge Prediction,5,0.6172
+True,False,True,Edge Prediction,1,0.5935
+True,False,True,Edge Prediction,2,0.5917
+True,False,True,Edge Prediction,3,0.6826
+True,False,True,Edge Prediction,4,0.6079
+True,False,True,Edge Prediction,5,0.6738
+True,True,True,Edge Prediction,1,0.5927
+True,True,True,Edge Prediction,2,0.6552
+True,True,True,Edge Prediction,3,0.6696
+True,True,True,Edge Prediction,4,0.6342
+True,True,True,Edge Prediction,5,0.6764
+False,True,True,Name Prediction,1,0.6248
+False,True,True,Name Prediction,2,0.6583
+False,True,True,Name Prediction,3,0.6241
+False,True,True,Name Prediction,4,0.5858
+False,True,True,Name Prediction,5,0.6189
+False,False,True,Name Prediction,1,0.57
+False,False,True,Name Prediction,2,0.6045
+False,False,True,Name Prediction,3,0.6572
+False,False,True,Name Prediction,4,0.5799
+False,False,True,Name Prediction,5,0.6476
+False,True,False,Name Prediction,1,0.6374
+False,True,False,Name Prediction,2,0.6043
+False,True,False,Name Prediction,3,0.5364
+False,True,False,Name Prediction,4,0.6462
+False,True,False,Name Prediction,5,0.5825
+False,False,False,Name Prediction,1,0.5632
+False,False,False,Name Prediction,2,0.6581
+False,False,False,Name Prediction,3,0.6678
+False,False,False,Name Prediction,4,0.7266
+False,False,False,Name Prediction,5,0.6868
+True,False,False,Name Prediction,1,0.578
+True,False,False,Name Prediction,2,0.6482
+True,False,False,Name Prediction,3,0.6043
+True,False,False,Name Prediction,4,0.6138
+True,False,False,Name Prediction,5,0.7266
+True,True,False,Name Prediction,1,0.6338
+True,True,False,Name Prediction,2,0.6628
+True,True,False,Name Prediction,3,0.6394
+True,True,False,Name Prediction,4,0.6541
+True,True,False,Name Prediction,5,0.5842
+True,False,True,Name Prediction,1,0.6073
+True,False,True,Name Prediction,2,0.6625
+True,False,True,Name Prediction,3,0.6675
+True,False,True,Name Prediction,4,0.6623
+True,False,True,Name Prediction,5,0.5468
+True,True,True,Name Prediction,1,0.5776
+True,True,True,Name Prediction,2,0.6517
+True,True,True,Name Prediction,3,0.6201
+True,True,True,Name Prediction,4,0.5925
+True,True,True,Name Prediction,5,0.6455
